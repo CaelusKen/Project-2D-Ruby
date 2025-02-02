@@ -20,7 +20,6 @@
    
 2. **Open the Project**:
    - If using Unity, open the project in Unity Hub.
-   - If using Unreal, open the `.uproject` file in Unreal Engine.
    
 3. **Run the Game**:
    ```sh
@@ -54,23 +53,14 @@
 5. Open a Pull Request
 
 ## 📝 License
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+There are no license to this project yet.
 
 ## 📢 Contact
-- **Developer**: Your Name
-- **Email**: your.email@example.com
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **Project Leader**: Nguyen Truong Khang Thuan
+- **Email**: caelus.khangthuan1209@gmail.com
+- **Instagram**: [@caelus_thuan_2003](https://www.instagram.com/caelus_thuan_2003)
 
 Happy gaming! 🎮🔥
-
-
-
-
-Mechanisms:
-
-- The goal is to explore and advance further into different levels
-
-- Move Ruby by using WASD, Attack with Spacebar but keep an eye on the limit gears can be used to attack.
 
 Project Team members:
 
